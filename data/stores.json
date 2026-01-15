@@ -3,43 +3,77 @@
     "id": "carmel",
     "name": "World Famous Hotboys (Carmel)",
     "yelp_url": "https://www.yelp.com/biz/world-famous-hotboys-carmel-2",
-    "google_maps_url": "https://www.google.com/maps/place/World+famous+Hotboys/@39.9402846,-86.2374994,17z/data=!4m6!3m5!1s0x8814abef8d522b7d:0xbf4ea66667672b8a!8m2!3d39.9402805!4d-86.2349245!16s%2Fg%2F11l33hvv20?entry=ttu"
+    "yelp_review_count": null,
+    "yelp_review_rating": null,
+    "google_maps_url": "https://www.google.com/maps/place/World+famous+Hotboys/@39.9402846,-86.2374994,17z/data=!4m6!3m5!1s0x8814abef8d522b7d:0xbf4ea66667672b8a!8m2!3d39.9402805!4d-86.2349245!16s%2Fg%2F11l33hvv20?entry=ttu",
+    "google_review_count": null,
+    "google_review_rating": null,
+    "last_checked_at": null
   },
   {
     "id": "hayward",
     "name": "World Famous Hotboys (Hayward)",
     "yelp_url": "https://www.yelp.com/biz/world-famous-hotboys-hayward-2",
-    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HOTBOYS/@37.6404134,-122.0625588,17z/data=!4m14!1m7!3m6!1s0x808f951643b5f0cb:0x7d6488abec9e1c92!2sWorld+Famous+HOTBOYS!8m2!3d37.6404093!4d-122.0576879!16s%2Fg%2F11vwj633th!3m5!1s0x808f951643b5f0cb:0x7d6488abec9e1c92!8m2!3d37.6404093!4d-122.0576879!16s%2Fg%2F11vwj633th?entry=ttu"
+    "yelp_review_count": null,
+    "yelp_review_rating": null,
+    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HOTBOYS/@37.6404134,-122.0625588,17z/data=!4m14!1m7!3m6!1s0x808f951643b5f0cb:0x7d6488abec9e1c92!2sWorld+Famous+HOTBOYS!8m2!3d37.6404093!4d-122.0576879!16s%2Fg%2F11vwj633th!3m5!1s0x808f951643b5f0cb:0x7d6488abec9e1c92!8m2!3d37.6404093!4d-122.0576879!16s%2Fg%2F11vwj633th?entry=ttu",
+    "google_review_count": null,
+    "google_review_rating": null,
+    "last_checked_at": null
   },
   {
     "id": "indianapolis",
     "name": "World Famous Hotboys (Indianapolis)",
     "yelp_url": "https://www.yelp.com/biz/world-famous-hotboys-indianapolis-2",
-    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HotBoys/@39.753999,-86.1415281,15z/data=!4m2!3m1!1s0x0:0xec956d8bcf386ea?sa=X&ved=2ahUKEwj6jL-qkej3AhUpD0QIHQWCA-EQ_BJ6BAhJEAU"
+    "yelp_review_count": null,
+    "yelp_review_rating": null,
+    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HotBoys/@39.753999,-86.1415281,15z/data=!4m2!3m1!1s0x0:0xec956d8bcf386ea?sa=X&ved=2ahUKEwj6jL-qkej3AhUpD0QIHQWCA-EQ_BJ6BAhJEAU",
+    "google_review_count": null,
+    "google_review_rating": null,
+    "last_checked_at": null
   },
   {
     "id": "novato",
     "name": "World Famous Hotboys (Novato)",
     "yelp_url": "https://www.yelp.com/biz/world-famous-hotboys-novato",
-    "google_maps_url": "https://www.google.com/maps/place/World+Famous+Hotboys+Chicken/@38.0637023,-122.5333779,15z/data=!4m2!3m1!1s0x0:0x973dd9b918aaa6cf?sa=X&ved=1t:2428&ictx=111&cshid=1719757422672530"
+    "yelp_review_count": null,
+    "yelp_review_rating": null,
+    "google_maps_url": "https://www.google.com/maps/place/World+Famous+Hotboys+Chicken/@38.0637023,-122.5333779,15z/data=!4m2!3m1!1s0x0:0x973dd9b918aaa6cf?sa=X&ved=1t:2428&ictx=111&cshid=1719757422672530",
+    "google_review_count": null,
+    "google_review_rating": null,
+    "last_checked_at": null
   },
   {
     "id": "oakland",
     "name": "World Famous Hotboys (Oakland)",
     "yelp_url": "https://www.yelp.com/biz/world-famous-hotboys-oakland",
-    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HOTBOYS+Chicken/@37.8070545,-122.2738673,17z/data=!4m6!3m5!1s0x808f81e4da362f23:0xed34e87f5ab7f793!8m2!3d37.8065462!4d-122.27219!16s%2Fg%2F11hzs9kjm4?entry=ttu"
+    "yelp_review_count": null,
+    "yelp_review_rating": null,
+    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HOTBOYS+Chicken/@37.8070545,-122.2738673,17z/data=!4m6!3m5!1s0x808f81e4da362f23:0xed34e87f5ab7f793!8m2!3d37.8065462!4d-122.27219!16s%2Fg%2F11hzs9kjm4?entry=ttu",
+    "google_review_count": null,
+    "google_review_rating": null,
+    "last_checked_at": null
   },
   {
     "id": "sacramento",
     "name": "World Famous Hotboys (Sacramento)",
     "yelp_url": "https://www.yelp.com/biz/world-famous-hotboys-sacramento",
-    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HOTBOYS/@38.5747056,-121.4812133,17z/data=!4m5!1s0x809ad1935c565131:0x3b1847b8105e1b1f!8m2!3d38.5747014!4d-121.4790246?shorturl=1"
+    "yelp_review_count": null,
+    "yelp_review_rating": null,
+    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HOTBOYS/@38.5747056,-121.4812133,17z/data=!4m5!1s0x809ad1935c565131:0x3b1847b8105e1b1f!8m2!3d38.5747014!4d-121.4790246?shorturl=1",
+    "google_review_count": null,
+    "google_review_rating": null,
+    "last_checked_at": null
   },
   {
     "id": "walnut_creek",
     "name": "World Famous Hotboys (Walnut Creek)",
     "yelp_url": "https://www.yelp.com/biz/world-famous-hotboys-walnut-creek-5",
-    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HotBoys/@37.8994167,-122.0610991,152m/data=!3m1!1e3!4m13!1m7!3m6!1s0x808561c024e60e3b:0xca0ff1cf7dfe90c4!2s1394+N+Main+St,+Walnut+Creek,+CA+94596!3b1!8m2!3d37.8992487!4d-122.0605069!3m4!1s0x808561691b119a2d:0x8f54bc2d0523c944!8m2!3d37.8992312!4d-122.0605738"
+    "yelp_review_count": null,
+    "yelp_review_rating": null,
+    "google_maps_url": "https://www.google.com/maps/place/World+Famous+HotBoys/@37.8994167,-122.0610991,152m/data=!3m1!1e3!4m13!1m7!3m6!1s0x808561c024e60e3b:0xca0ff1cf7dfe90c4!2s1394+N+Main+St,+Walnut+Creek,+CA+94596!3b1!8m2!3d37.8992487!4d-122.0605069!3m4!1s0x808561691b119a2d:0x8f54bc2d0523c944!8m2!3d37.8992312!4d-122.0605738",
+    "google_review_count": null,
+    "google_review_rating": null,
+    "last_checked_at": null
   }
 ]
-
